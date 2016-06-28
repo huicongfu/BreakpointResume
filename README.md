@@ -1,0 +1,2 @@
+# BreakpointResume
+利用NSURLSession进行文件断点下载
